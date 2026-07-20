@@ -1,0 +1,15 @@
+# COFFEE SHOP REWARDS PROJECT
+## About Project
+Coffee Shop X regularly offers various promotions to drive transactions. However, high customer enthusiasm risks eroding profit margins if these promos are not targeted at the right audience. Therefore, this project is designed to analyze customer behavior and demographic data to create a more efficient, personalized, and cost effective promotional strategy.
+## Project Dataset
+The dataset used in this project is sourced from **Maven Analytics (Cafe Rewards Offer Folder)** and consists of three main files:
+* **`customer.csv`**: Contains customer demographic and profile data, such as age, income, and signup date;
+* **`events.csv`**: Contains historical records of interaction logs and event activities from the rewards program;
+* **`offers.csv`**: Contains detailed information regarding the types of offers or promotions provided to customers.
+## Analysis Results
+* Based on the analysis, Discount is the most successful offer completed by customers, recording 17,681 transactions with a completion rate of 57.89%. The BOGO (Buy One Get One) offer follows in second place with a completion rate of 50.82%. Although both offers show relatively close completion rates, the data indicates that customers respond better to direct price reductions rather than having to purchase an additional product.
+* Based on the analysis, 1,207 customers made a purchase after receiving an informational offer, resulting in a total of 1,255 transactions. The higher transaction volume indicates that several customers made multiple purchases. This proves that even without direct discount incentives, informational offers remain highly effective at building brand awareness & driving customer purchases.
+* Based on the analysis, the dominant customer segment is Gen Boomers in the Upper Middle class, which independently accounts for 23.34% of the total customer base. Furthermore, the Top 5 demographic combinations encompass nearly 75% of all customers. This indicates that the coffee shop's core target market is heavily concentrated on mature age groups (Gen Boomers and Gen X) with middle-income levels (Upper Middle and Lower Middle).
+* The analysis reveals that customer demographic patterns are highly consistent across all offer types. The highest completion rates are strictly dominated by Gen Boomers (Upper Middle) and Gen X (Upper Middle). This indicates that current promotional campaigns have not effectively captured new demographic segments, as the offers are ultimately utilized by the same existing loyal customer base.
+## Actionable Recommendations
+The coffee shop is currently struggling to effectively reach new market segments, specifically Gen Z and Millennials, as promotional offers are primarily claimed by existing loyal customers (dominated by Gen Boomers and Gen X). Consequently, the company needs to reallocate a portion of its promotional budget towards targeted campaigns. For instance, BOGO promotions can be positioned as an exclusive loyalty program for senior demographics, while Discount offers should be strategically focused on acquiring younger audiences.
