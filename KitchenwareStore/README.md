@@ -3,7 +3,7 @@
 A kitchenware store recorded 10,000 transactions throughout 2025. However, a high transaction volume does not necessarily guarantee maximum profitability. Therefore, this project is designed to address existing challenges, enabling the business to maximize revenue and minimize losses in 2026.
 ## Project Dataset
 Toko Peralatan Dapur.csv by Karirnex (Data 2025)
-## Business Insight
+## Business Insights
 * The store's revenue is heavily concentrated on a select few items. Out of 57 available products, the top 25 drive 80% of the total revenue. The Home Espresso Machine stands out as the highest revenue generator, contributing over Rp640 million. However, in terms of sales volume, affordable daily essentials like the Table Tissue Holder and Granite Mortar dominate the total units sold.
 * Throughout 2025, the store experienced a considerable opportunity loss, with total refunded orders reaching Rp129.6 million. The highest refund rates were predominantly found in the cookware category, highlighting a critical area for quality control improvement.
 * The store demonstrates positive signals in customer retention, evidenced by highly loyal customers who have completed up to 14 transactions. Furthermore, the remarkably short interval (day break) between purchases suggests a highly satisfying overall user experience that successfully drives repeat orders.
