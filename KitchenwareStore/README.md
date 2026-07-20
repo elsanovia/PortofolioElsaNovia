@@ -1,0 +1,14 @@
+# KITCHENWARE STORE MINI PROJECT
+## About Project
+A kitchenware store recorded 10,000 transactions throughout 2025. However, a high transaction volume does not necessarily guarantee maximum profitability. Therefore, this project is designed to address existing challenges, enabling the business to maximize revenue and minimize losses in 2026.
+## Project Dataset
+Toko Peralatan Dapur.csv by Karirnex (Data 2025)
+## Business Insight
+* The store's revenue is heavily concentrated on a select few items. Out of 57 available products, the top 25 drive 80% of the total revenue. The Home Espresso Machine stands out as the highest revenue generator, contributing over Rp640 million. However, in terms of sales volume, affordable daily essentials like the Table Tissue Holder and Granite Mortar dominate the total units sold.
+* Throughout 2025, the store experienced a considerable opportunity loss, with total refunded orders reaching Rp129.6 million. The highest refund rates were predominantly found in the cookware category, highlighting a critical area for quality control improvement.
+* The store demonstrates positive signals in customer retention, evidenced by highly loyal customers who have completed up to 14 transactions. Furthermore, the remarkably short interval (day break) between purchases suggests a highly satisfying overall user experience that successfully drives repeat orders.
+## Actionable Recommendations
+* Leverage the high traffic of high volume items, such as tissue holders, to boost the sales of slower moving products through kitchenware bundling packages. Additionally, the inventory and logistics teams must enforce a strict zero stock out policy, especially for the top 25 products that generate 80% of the revenue, to maintain consistent sales momentum.
+* The operations team should immediately evaluate suppliers providing products with the highest refund rates, particularly the stainless steel pots. Furthermore, upgrading quality control (QC) standards before handing items over to logistics is crucial. Reducing the refund rate of these problematic products to an acceptable threshold (~5%) could potentially salvage millions of rupiah in revenue.
+* Establish a customer loyalty program offering points, cashback, or early bird access to new arrivals, specifically tailored for customers who have completed more than 5 transactions. This initiative will make high value customers feel appreciated, thereby increasing retention and preventing them from switching to competitors.
+* Introduce conditional shipping subsidies or free shipping vouchers tied to a specific Minimum Order Value (MOV). This strategy effectively addresses the shipping fee disparity across cities, which currently shows a Rp10,000 gap (maximum Rp 60,000 and minimum Rp 50,000), while simultaneously encouraging customers to increase their average basket size.
